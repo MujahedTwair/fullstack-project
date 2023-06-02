@@ -4,3 +4,5 @@ website with admins and users by php
 https://github.com/MujahedTwair/fullstack-project/assets/135132989/3fa5da74-fbec-44ac-b17c-61c52990862e
 # live-dimo:
 https://simple-crud-system.000webhostapp.com/index.php
+
+try to create an account and update your account. 
