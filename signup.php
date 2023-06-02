@@ -30,7 +30,6 @@ if(isset($_POST['signup'])){
             $queryinsert = mysqli_query($conn,$insert);
             
             if($queryinsert){
-                echo '<script>alert("stilll herrree Done")</script>';
                 $squserid = "SELECT `id` FROM `users` WHERE `username` ='$username'";
                 $queryidquery = mysqli_query($conn,$squserid);
                 $rowid=mysqli_fetch_array($queryidquery);
