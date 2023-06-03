@@ -10,7 +10,7 @@ try to create an account and update your account.
 # Libraries And Technologies Used
 • PHP: The server-side language used for handling logic and database interactions.
 
-• MySQL with MySQLi: Used for creating, reading, updating, and deleting records in your database (CRUD operations).
+• MySQL with MySQLi: Used for creating, reading, updating, and deleting records in the database (CRUD operations).
 
 • HTML5/CSS3: Markup languages used to structure content and its presentation on web pages.
 
