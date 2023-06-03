@@ -10,12 +10,12 @@ try to create an account and update your account.
 # Libraries And Technologies Used
 • PHP: The server-side language used for handling logic and database interactions.
 
-• MySQL with MySQLi: Used for creating, reading, updating, and deleting records in the database (CRUD operations).
+• MySQL with MySQLi: Used for performing CRUD (Create, Read, Update, Delete) operations in the database.
 
-• HTML5/CSS3: Markup languages used to structure content and its presentation on web pages.
+• HTML5/CSS3: Markup languages used for structuring the content and presenting it on web pages.
 
-• Bootstrap: Used to apply consistent styling rules quickly across the website. While the site is not fully responsive, Bootstrap's styles are used for their ease and speed of application.
+• Bootstrap: Utilized to apply a uniform and modern design across the website quickly.
 
-• JavaScript: Utilized primarily to display data. While interactivity is minimal, JavaScript is used for presenting JSON data on the site.
+• JavaScript: Employed for handling dynamic display of data on the site.
 
-• JSON: Data format used for data transmission between the server and the web application, primarily for displaying data on the site.
+• JSON: Data format leveraged for data transmission between the server and the web application.
